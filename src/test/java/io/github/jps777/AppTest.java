@@ -1,4 +1,4 @@
-package com.github.jps777;
+package io.github.jps777;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
