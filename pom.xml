@@ -4,7 +4,7 @@
   <groupId>io.github.jps777</groupId>
   <artifactId>DemoPublishDeploy</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <name>DemoPublishDeploy</name>
   <description>demo project for publishing to mvn central</description>
   <url>https://github.com/jps777/DemoPublishDeploy</url>
